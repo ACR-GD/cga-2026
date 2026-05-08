@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}{{ studio.name }} - CGA 2026 Explorer{% endblock %}
+{% block content %}
+  <div class="card">
+    <h2>{{ studio.name }}</h2>
+    {% if studio.logo_image_url %}
+      <img class="media" src="{{ studio.logo_image_url }}" alt="Logo officiel de {{ studio.name }}">
+    {% else %}
+      <p class="muted">Logo officiel a ajouter pour ce studio.</p>
+    {% endif %}
+    <p class="muted">{{ studio.description or "Description publique a enrichir." }}</p>
+    <p>
+      {% if studio.website_url %}<a class="btn" href="{{ studio.website_url }}" target="_blank">Site officiel</a>{% endif %}
+      {% if studio.wikipedia_url %}<a class="btn" href="{{ studio.wikipedia_url }}" target="_blank">Wikipedia</a>{% endif %}
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Jeux en base</h3>
+    <ul>
+      {% for game in games %}
+        <li><a href="/games/{{ game.id }}">{{ game.title }}</a> {% if game.metacritic_score %}- MC {{ game.metacritic_score }}{% endif %}</li>
+      {% else %}
+        <li>Aucun jeu relie pour l'instant.</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endblock %}

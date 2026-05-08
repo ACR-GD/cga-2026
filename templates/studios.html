@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Studios - CGA 2026 Explorer{% endblock %}
+{% block content %}
+  <div class="card">
+    <form method="get">
+      <label>Recherche studio</label>
+      <input type="text" name="q" value="{{ q }}" placeholder="Ex: Compulsion Games">
+      <button type="submit">Chercher</button>
+    </form>
+  </div>
+
+  {% for studio in studios %}
+    <div class="card">
+      <h3><a href="/studios/{{ studio.id }}">{{ studio.name }}</a></h3>
+      {% if studio.logo_image_url %}
+        <img class="media-small" src="{{ studio.logo_image_url }}" alt="Logo de {{ studio.name }}">
+      {% else %}
+        <p class="muted">Logo officiel a ajouter.</p>
+      {% endif %}
+      <p class="muted">{{ studio.description or "Description publique a enrichir." }}</p>
+      <p>Jeux lies: {{ studio.game_count }}</p>
+      <p>
+        {% if studio.website_url %}<a class="btn" href="{{ studio.website_url }}" target="_blank">Site officiel</a>{% endif %}
+        {% if studio.wikipedia_url %}<a class="btn" href="{{ studio.wikipedia_url }}" target="_blank">Wikipedia</a>{% endif %}
+      </p>
+    </div>
+  {% else %}
+    <div class="card">Aucun studio trouve.</div>
+  {% endfor %}
+{% endblock %}

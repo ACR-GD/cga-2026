@@ -1,0 +1,378 @@
+{
+  "games": {
+    "South of Midnight": {
+      "description": "South of Midnight est un jeu d'action-aventure narratif de Compulsion Games situe dans un univers southern gothic.",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/6/62/South_of_Midnight_cover_art.png",
+      "youtube_trailer_url": "https://www.youtube.com/watch?v=V7vBVSeW3u4",
+      "metacritic_url": "https://www.metacritic.com/game/playstation-5/south-of-midnight",
+      "metacritic_score": 77,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/South_of_Midnight",
+      "official_site_url": "https://compulsiongames.com/games/south-of-midnight/"
+    },
+    "33 Immortals": {
+      "description": "33 Immortals est un jeu d'action-aventure narratif de Thunder Lotus Games se deroulant dans un univers post-apocalyptique.",
+      "cover_image_url": "https://upload.wikimedia.org/wikipedia/en/b/b2/33_Immortals_cover_art.png",
+      "youtube_trailer_url": "https://www.youtube.com/watch?v=tPMVOwsKRJc",
+      "metacritic_url": "https://www.metacritic.com/game/playstation-5/33-immortals",
+      "metacritic_score": 80,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/33_Immortals",
+      "official_site_url": "https://thunderlotusgames.com/games/33-immortals/"
+    },
+    "Eternal Strands": {
+      "description": "Eternal Strands est un jeu d'action-aventure narratif de Yellow Brick Games se deroulant dans un univers post-apocalyptique.",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/watch?v=tPMVOwsKRJc",
+      "metacritic_url": "https://www.metacritic.com/game/playstation-5/eternal-strands",
+      "metacritic_score": 69,
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eternal_Strands",
+      "official_site_url": "N/A"
+    },
+    "Marvel Cosmic Invasion": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Marvel+Cosmic+Invasion+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Marvel+Cosmic+Invasion/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Lost Records: Bloom & Rage": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Lost+Records%3A+Bloom+%26+Rage+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Lost+Records%3A+Bloom+%26+Rage/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Assassin's Creed Shadows": {
+      "description": "Assassin's Creed Shadows est un action-RPG d'Ubisoft se deroulant dans le Japon feodal.",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Assassin%27s+Creed+Shadows+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/assassin%27s%20creed%20shadows/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Hell is Us": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Hell+is+Us+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Hell+is+Us/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Battlefield 6": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Battlefield+6+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Battlefield+6/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Wanderstop": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Wanderstop+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Wanderstop/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Aloft": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Aloft+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Aloft/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Foundation": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Foundation+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Foundation/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Ambrosia Sky: Act One": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Ambrosia+Sky%3A+Act+One+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Ambrosia+Sky%3A+Act+One/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Ctrl Alt Deal": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Ctrl+Alt+Deal+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Ctrl+Alt+Deal/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Fresh Tracks": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Fresh+Tracks+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Fresh+Tracks/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Elsewhere Electric": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Elsewhere+Electric+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Elsewhere+Electric/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "LHEA and the Word Spirit": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=LHEA+and+the+Word+Spirit+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/LHEA+and+the+Word+Spirit/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Rainbow Six Mobile": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Rainbow+Six+Mobile+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Rainbow+Six+Mobile/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "EA Sports FC 26 Mobile": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=EA+Sports+FC+26+Mobile+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/EA+Sports+FC+26+Mobile/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Verse VR": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Verse+VR+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Verse+VR/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Fruit Golf": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Fruit+Golf+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Fruit+Golf/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Chronostrike": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Chronostrike+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Chronostrike/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Prison Boss Prohibition": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Prison+Boss+Prohibition+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Prison+Boss+Prohibition/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Squeakross: Home Squeak Home": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Squeakross%3A+Home+Squeak+Home+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Squeakross%3A+Home+Squeak+Home/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "EA FC 26": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=EA+FC+26+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/EA+FC+26/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    },
+    "Warframe: The Old Peace": {
+      "description": "",
+      "cover_image_url": "",
+      "youtube_trailer_url": "https://www.youtube.com/results?search_query=Warframe%3A+The+Old+Peace+official+trailer",
+      "metacritic_url": "https://www.metacritic.com/search/Warframe%3A+The+Old+Peace/",
+      "metacritic_score": null,
+      "wikipedia_url": "",
+      "official_site_url": ""
+    }
+  },
+  "studios": {
+    "Compulsion Games": {
+      "description": "",
+      "logo_image_url": "https://logo.clearbit.com/compulsiongames.com",
+      "website_url": "https://compulsiongames.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Thunder Lotus Games": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "https://thunderlotusgames.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Yellow Brick Games": {
+      "description": "",
+      "logo_image_url": "https://logo.clearbit.com/yellowbrickgames.com",
+      "website_url": "https://yellowbrickgames.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Tribute Games": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "https://tributegames.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "DON'T NOD Montreal": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "https://dont-nod.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Ubisoft Quebec": {
+      "description": "",
+      "logo_image_url": "https://logo.clearbit.com/ubisoft.com",
+      "website_url": "https://www.ubisoft.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Rogue Factor": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "https://rogue-factor.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "EA DICE": {
+      "description": "",
+      "logo_image_url": "https://logo.clearbit.com/ea.com",
+      "website_url": "https://www.ea.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Ivy Road": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Astrolabe Interactive": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Polymorph Games": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Soft Rains": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Only By Midnight": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Buffalo Buffalo": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Games by Stitch": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Unknown Studio": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Ubisoft Montreal": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "https://www.ubisoft.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "EA Sports": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "https://www.ea.com",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "TREBUCHET": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Alblune": {
+      "description": "",
+      "logo_image_url": "",
+      "website_url": "",
+      "wikipedia_url": "",
+      "country": ""
+    },
+    "Digital Extremes": {
+      "description": "",
+      "logo_image_url": "https://logo.clearbit.com/digitalextremes.com",
+      "website_url": "https://www.digitalextremes.com",
+      "wikipedia_url": "",
+      "country": ""
+    }
+  }
+}

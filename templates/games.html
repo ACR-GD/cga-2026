@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Jeux - CGA 2026 Explorer{% endblock %}
+{% block content %}
+  <div class="card">
+    <form method="get">
+      <label>Recherche jeu</label>
+      <input type="text" name="q" value="{{ q }}" placeholder="Ex: South of Midnight">
+      <button type="submit">Chercher</button>
+    </form>
+  </div>
+
+  {% for game in games %}
+    <div class="card">
+      <h3><a href="/games/{{ game.id }}">{{ game.title }}</a></h3>
+      {% if game.cover_image_url %}
+        <img class="media-small" src="{{ game.cover_image_url }}" alt="Illustration de {{ game.title }}">
+      {% else %}
+        <p class="muted">Illustration officielle a ajouter.</p>
+      {% endif %}
+      <p class="muted">{{ game.description or "Description publique a enrichir." }}</p>
+      <p>Studio: {{ game.studio_name or "Inconnu" }}</p>
+      <p>Metacritic: {{ game.metacritic_score or "N/A" }}</p>
+      <p>
+        {% if game.youtube_trailer_url %}<a class="btn" href="{{ game.youtube_trailer_url }}" target="_blank">Trailer</a>{% endif %}
+        {% if game.metacritic_url %}<a class="btn" href="{{ game.metacritic_url }}" target="_blank">Metacritic</a>{% endif %}
+        {% if game.wikipedia_url %}<a class="btn" href="{{ game.wikipedia_url }}" target="_blank">Wikipedia</a>{% endif %}
+      </p>
+    </div>
+  {% else %}
+    <div class="card">Aucun jeu trouve.</div>
+  {% endfor %}
+{% endblock %}

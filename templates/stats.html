@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Stats - CGA 2026 Explorer{% endblock %}
+{% block content %}
+  <div class="card">
+    <h3>Top 20 jeux les plus nommes</h3>
+    <ul>
+      {% for game in top_games %}
+        <li><a href="/games/{{ game.id }}">{{ game.title }}</a> - {{ game.nomination_count }}</li>
+      {% else %}
+        <li>Aucune donnee.</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Volume de nomines par categorie</h3>
+    <ul>
+      {% for c in categories %}
+        <li>{{ c.group_name }} - {{ c.name }} ({{ c.nominee_type }}) : {{ c.nominee_count }}</li>
+      {% else %}
+        <li>Aucune categorie.</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endblock %}

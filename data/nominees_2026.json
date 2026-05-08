@@ -1,0 +1,314 @@
+{
+  "year": 2026,
+  "award_groups": [
+    {
+      "name": "Best of Awards",
+      "categories": [
+        {
+          "name": "Best Art Direction",
+          "nominee_type": "game",
+          "nominees": [
+            "South of Midnight",
+            "33 Immortals",
+            "Eternal Strands",
+            "Marvel Cosmic Invasion",
+            "Lost Records: Bloom & Rage"
+          ]
+        },
+        {
+          "name": "Best Game Design",
+          "nominee_type": "game",
+          "nominees": [
+            "South of Midnight",
+            "Assassin's Creed Shadows",
+            "Hell is Us",
+            "Eternal Strands",
+            "Battlefield 6"
+          ]
+        },
+        {
+          "name": "Best Score/Soundtrack",
+          "nominee_type": "game",
+          "nominees": [
+            "South of Midnight",
+            "Lost Records: Bloom & Rage",
+            "Eternal Strands",
+            "Assassin's Creed Shadows",
+            "Marvel Cosmic Invasion"
+          ]
+        },
+        {
+          "name": "Best Narrative",
+          "nominee_type": "game",
+          "nominees": [
+            "South of Midnight",
+            "Assassin's Creed Shadows",
+            "Lost Records: Bloom & Rage",
+            "Hell is Us",
+            "Wanderstop"
+          ]
+        },
+        {
+          "name": "Best Performance",
+          "nominee_type": "person",
+          "sponsor": "ACTRA",
+          "nominees": [
+            {
+              "person_name": "Erica Luttrell",
+              "person_type": "actor",
+              "game": "Battlefield 6"
+            },
+            {
+              "person_name": "Momona Tamada",
+              "person_type": "actor",
+              "game": "Assassin's Creed Shadows"
+            },
+            {
+              "person_name": "Elias Toufexis",
+              "person_type": "actor",
+              "game": "Hell is Us"
+            },
+            {
+              "person_name": "Peter Shinkoda",
+              "person_type": "actor",
+              "game": "Assassin's Creed Shadows"
+            },
+            {
+              "person_name": "Olivia Lepore",
+              "person_type": "actor",
+              "game": "Lost Records: Bloom & Rage"
+            }
+          ]
+        },
+        {
+          "name": "Best Audio Design",
+          "nominee_type": "game",
+          "sponsor": "JBL",
+          "nominees": [
+            "South of Midnight",
+            "Assassin's Creed Shadows",
+            "Hell is Us",
+            "Eternal Strands",
+            "Battlefield 6"
+          ]
+        },
+        {
+          "name": "Best PC Game",
+          "nominee_type": "game",
+          "nominees": [
+            "Aloft",
+            "Foundation",
+            "Ambrosia Sky: Act One",
+            "Eternal Strands",
+            "Battlefield 6"
+          ]
+        },
+        {
+          "name": "Best Console Game",
+          "nominee_type": "game",
+          "sponsor": "Best Buy",
+          "nominees": [
+            "South of Midnight",
+            "Assassin's Creed Shadows",
+            "Hell is Us",
+            "Marvel Cosmic Invasion",
+            "Battlefield 6"
+          ]
+        },
+        {
+          "name": "Best Indie Game",
+          "nominee_type": "game",
+          "sponsor": "Red Barrel",
+          "nominees": [
+            "Ambrosia Sky: Act One",
+            "Ctrl Alt Deal",
+            "Wanderstop",
+            "Fresh Tracks",
+            "Marvel Cosmic Invasion"
+          ]
+        },
+        {
+          "name": "Best Mobile Game",
+          "nominee_type": "game",
+          "nominees": [
+            "Elsewhere Electric",
+            "LHEA and the Word Spirit",
+            "Rainbow Six Mobile",
+            "EA Sports FC 26 Mobile"
+          ]
+        },
+        {
+          "name": "Best VR/AR Game",
+          "nominee_type": "game",
+          "nominees": [
+            "Verse VR",
+            "Elsewhere Electric",
+            "Fruit Golf",
+            "Chronostrike",
+            "Prison Boss Prohibition"
+          ]
+        },
+        {
+          "name": "Best in Accessibility",
+          "nominee_type": "game",
+          "nominees": [
+            "South of Midnight",
+            "Squeakross: Home Squeak Home",
+            "EA FC 26",
+            "Wanderstop",
+            "Assassin's Creed Shadows"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Esports & Creators",
+      "categories": [
+        {
+          "name": "Esports Player",
+          "nominee_type": "person",
+          "nominees": [
+            {
+              "person_name": "Brandon \"Dashy\" Otell",
+              "person_type": "esports_player"
+            },
+            {
+              "person_name": "Troy \"Canadian\" Jaroslawski",
+              "person_type": "esports_player"
+            },
+            {
+              "person_name": "Russel \"Twistzz\" Van Dulken",
+              "person_type": "esports_player"
+            },
+            {
+              "person_name": "Adam \"mada\" Pampuch",
+              "person_type": "esports_player"
+            },
+            {
+              "person_name": "Keith \"NAF\" Markovic",
+              "person_type": "esports_player"
+            }
+          ]
+        },
+        {
+          "name": "Esports Coach",
+          "nominee_type": "person",
+          "nominees": [
+            {
+              "person_name": "Loic \"Effys\" Sauvageau",
+              "person_type": "coach"
+            },
+            {
+              "person_name": "Antonin \"AEC\" Tran",
+              "person_type": "coach"
+            },
+            {
+              "person_name": "Mervin-Angelo \"Dayos\" Lachica",
+              "person_type": "coach"
+            },
+            {
+              "person_name": "Shaun Byrne",
+              "person_type": "coach"
+            },
+            {
+              "person_name": "Kurtis \"Aui_2000\" Ling",
+              "person_type": "coach"
+            }
+          ]
+        },
+        {
+          "name": "Esports Organization",
+          "nominee_type": "organization",
+          "nominees": [
+            "Shopify Rebellion",
+            "Toronto Ultra / KOI / OverActive Media",
+            "Vancouver Surge",
+            "Raptors GC"
+          ]
+        },
+        {
+          "name": "Esports Event",
+          "nominee_type": "event",
+          "nominees": [
+            "Bell Esports Challenge",
+            "Electric Clash 2025",
+            "Battle of BC 7",
+            "Call of Duty Champs",
+            "Raptors GC Tournament"
+          ]
+        },
+        {
+          "name": "Content Creator/Show",
+          "nominee_type": "person",
+          "sponsor": "VGLX",
+          "nominees": [
+            {
+              "person_name": "Victor Lucas / Electric Playground",
+              "person_type": "creator"
+            },
+            {
+              "person_name": "Nicholas \"NickEh30\" Amyoony",
+              "person_type": "creator"
+            },
+            {
+              "person_name": "Alex \"Vansilli\" Nguyen",
+              "person_type": "creator"
+            },
+            {
+              "person_name": "Stef Sanjati",
+              "person_type": "creator"
+            },
+            {
+              "person_name": "Ashley Roboto",
+              "person_type": "creator"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Of the Year Awards",
+      "categories": [
+        {
+          "name": "Game of the Year",
+          "nominee_type": "game",
+          "nominees": [
+            "South of Midnight",
+            "Assassin's Creed Shadows",
+            "Hell is Us",
+            "Lost Records: Bloom & Rage",
+            "Wanderstop"
+          ]
+        },
+        {
+          "name": "Studio of the Year",
+          "nominee_type": "studio",
+          "nominees": [
+            "Compulsion Games",
+            "Rogue Factor",
+            "Tribute Games",
+            "Yellow Brick Games",
+            "Digital Extremes"
+          ]
+        },
+        {
+          "name": "Fan Choice of the Year",
+          "nominee_type": "game",
+          "sponsor": "ESAC",
+          "nominees": [
+            "33 Immortals",
+            "Assassin's Creed Shadows",
+            "Battlefield 6",
+            "Eternal Strands",
+            "Foundation",
+            "Fresh Tracks",
+            "Hell is Us",
+            "Lost Records: Bloom & Rage",
+            "South of Midnight",
+            "Warframe: The Old Peace"
+          ]
+        }
+      ]
+    }
+  ]
+}

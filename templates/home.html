@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}Accueil - CGA 2026 Explorer{% endblock %}
+{% block content %}
+  <div class="grid">
+    <div class="card"><strong>{{ global_stats.game_count }}</strong><br><span class="muted">Jeux en base</span></div>
+    <div class="card"><strong>{{ global_stats.studio_count }}</strong><br><span class="muted">Studios en base</span></div>
+    <div class="card"><strong>{{ global_stats.people_count }}</strong><br><span class="muted">Personnes en base</span></div>
+    <div class="card"><strong>{{ global_stats.nomination_count }}</strong><br><span class="muted">Nominations {{ year }}</span></div>
+  </div>
+
+  <div class="card">
+    <form method="get">
+      <label>Année</label>
+      <input type="number" name="year" value="{{ year }}" min="2000" max="2100">
+      <label>Groupe</label>
+      <select name="group">
+        <option value="">Tous</option>
+        {% for g in groups %}
+          <option value="{{ g.group_name }}" {% if current_group == g.group_name %}selected{% endif %}>{{ g.group_name }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit">Filtrer</button>
+    </form>
+  </div>
+
+  <div class="card">
+    <h3>Top jeux les plus nommés</h3>
+    <ul>
+      {% for game in top_games %}
+        <li><a href="/games/{{ game.id }}">{{ game.title }}</a> - {{ game.nomination_count }} nominations</li>
+      {% else %}
+        <li>Aucune donnée</li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endblock %}
